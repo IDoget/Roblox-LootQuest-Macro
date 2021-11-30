@@ -46,7 +46,7 @@ elif area == '1':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6)
+            time.sleep(6.5)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -65,7 +65,7 @@ elif area == '1':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6)
+            time.sleep(6.5)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -109,7 +109,7 @@ elif area == '2':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6)
+            time.sleep(6.5)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -128,7 +128,7 @@ elif area == '2':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6)
+            time.sleep(6.5)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -172,7 +172,7 @@ elif area == '3':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6)
+            time.sleep(6.5)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -191,7 +191,7 @@ elif area == '3':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6)
+            time.sleep(6.5)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
