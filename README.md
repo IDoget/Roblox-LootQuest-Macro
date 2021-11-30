@@ -29,7 +29,7 @@ A: No, Source code is available, plus I dont even want to know what your googlin
 
 Q: 'How did you make this?'
 
-A: A day of programming in Python, plus already found timings with razer synapes
+A: Python in visual studio code.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bug reporting:
