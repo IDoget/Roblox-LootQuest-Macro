@@ -4,6 +4,9 @@ This is a group of 3 macro's all in 1 executable file. The macro's are perfect '
 Works on windows 7-11
 I have no clue if its gonna work on MAC so try it out :D
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TO START RUN THE .EXE FILE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Macro start positions:
 
 Volcano, 2 Arch Demons
