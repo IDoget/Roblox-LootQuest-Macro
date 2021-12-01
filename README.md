@@ -37,4 +37,4 @@ A: Python in visual studio code.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bug reporting:
 
-Any issues you have please message me on discord IDoget#6840.
+Any issues or questions you have please message me on discord IDoget#6840.
