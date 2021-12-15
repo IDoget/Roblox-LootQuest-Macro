@@ -46,7 +46,7 @@ elif area == '1':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6.5)
+            time.sleep(6)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -65,20 +65,20 @@ elif area == '1':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6.5)
+            time.sleep(6)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.36)
             keyboardInput.press('a')
-            time.sleep(1.845 + (1.845/2))
+            time.sleep(1.845 - (1.845/2))
             keyboardInput.release('a')
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.465)
             keyboardInput.press('d')
-            time.sleep(1.845 + (1.845/2))
+            time.sleep(1.845 - (1.845/2))
             keyboardInput.release('d')
     exit()
 elif area == '2':
@@ -109,7 +109,7 @@ elif area == '2':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6.5)
+            time.sleep(6)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -128,20 +128,20 @@ elif area == '2':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6.5)
+            time.sleep(6)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.36)
             keyboardInput.press('a')
-            time.sleep(1.845 + (1.845/2))
+            time.sleep(1.845 - (1.845/2))
             keyboardInput.release('a')
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.465)
             keyboardInput.press('d')
-            time.sleep(1.845 + (1.845/2))
+            time.sleep(1.845 - (1.845/2))
             keyboardInput.release('d')
     exit()
 elif area == '3':
@@ -172,7 +172,7 @@ elif area == '3':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6.5)
+            time.sleep(6)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
@@ -191,20 +191,20 @@ elif area == '3':
         while True:
             if keyboardOutput.is_pressed('x'):
                 break
-            time.sleep(6.5)
+            time.sleep(6)
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.36)
             keyboardInput.press('a')
-            time.sleep(1.75 + (1.75/2))
+            time.sleep(1.75 - (1.75/2))
             keyboardInput.release('a')
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.465)
             keyboardInput.press('d')
-            time.sleep(1.75 + (1.75/2))
+            time.sleep(1.75 - (1.75/2))
             keyboardInput.release('d')
     exit()
 else:
