@@ -1,8 +1,8 @@
 # Roblox-LootQuest-Macro
-This is a group of 3 macro's all in 4 executable file. The macro's are perfect 'No tp, No time wasted'. With Source code.
+This is a group of 4 macro's all in 4 executable file. The macro's are perfect 'No tp, No time wasted'. With Source code.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Works on windows 7-11
-I have no clue if its gonna work on MAC so try it out :D
+DOES NOT WORK ON MAC
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TO START RUN THE .EXE FILE
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
