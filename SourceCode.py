@@ -1,8 +1,7 @@
-# Developed by IDoget. #
+# Developed by IDoget and Dogwarrior24 #
 # Do not edit, replicate, or sell without my permission!!! #
 # If you have any bug reports please DM me on discord; IDoget#6840 #
 
-from os import kill
 import time
 import keyboard as keyboardOutput
 from pynput import keyboard
@@ -33,7 +32,7 @@ elif area == '1':
     
     print('You will be given 10 seconds to tab into roblox and position your roblox character as seen on github.')
     time.sleep(3)
-    print('To stop the macro press hold Q')
+    print('To stop the macro hold Q')
     time.sleep(3)
     _ = input('Press Enter to begin macro!\n')
 
@@ -46,13 +45,13 @@ elif area == '1':
 
     if speedboost == False:
         while not keyboardOutput.is_pressed('q'):
-            time.sleep(8)
+            time.sleep(8 + (0.97 * (2/3)))
             mouseInput.press(Button.left)
             time.sleep(0.2)
             mouseInput.release(Button.left)
             time.sleep(0.4)
             keyboardInput.press('a')
-            time.sleep(0.97 + (0.97/2))
+            time.sleep(0.97 * (2/3))
             keyboardInput.release('a')
             time.sleep(0.2)
             mouseInput.press(Button.left)
@@ -60,7 +59,7 @@ elif area == '1':
             mouseInput.release(Button.left)
             time.sleep(0.4)
             keyboardInput.press('d')
-            time.sleep(0.97 + (0.97/2))
+            time.sleep(0.97 * (2/3))
             keyboardInput.release('d')
             kills += 2
         print(f'Total kills: {kills}')
@@ -97,7 +96,7 @@ elif area == '2':
     
     print('You will be given 10 seconds to tab into roblox and position your roblox character as seen on github.')
     time.sleep(3)
-    print('To stop the macro press hold Q')
+    print('To stop the macro hold Q')
     time.sleep(3)
     _ = input('Press Enter to begin macro!\n')
 
@@ -129,20 +128,20 @@ elif area == '2':
         print(f'Total kills: {kills}')
     else:
         while not keyboardOutput.is_pressed('q'):
-            time.sleep(6)
+            time.sleep(6 + (1.845 * (2/3)))
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.36)
             keyboardInput.press('a')
-            time.sleep(1.845 - (1.845/2))
+            time.sleep(1.845 * (2/3))
             keyboardInput.release('a')
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.465)
             keyboardInput.press('d')
-            time.sleep(1.845 - (1.845/2))
+            time.sleep(1.845 * (2/3))
             keyboardInput.release('d')
             kills += 2
         print(f'Total kills: {kills}')
@@ -159,7 +158,7 @@ elif area == '3':
 
     print('You will be given 10 seconds to tab into roblox and position your roblox character as seen on github.')
     time.sleep(3)
-    print('To stop the macro press hold Q')
+    print('To stop the macro hold Q')
     time.sleep(3)
     _ = input('Press Enter to begin macro!\n')
     
@@ -191,20 +190,20 @@ elif area == '3':
         print(f'Total kills: {kills}')
     else:
         while not keyboardOutput.is_pressed('q'):
-            time.sleep(6)
+            time.sleep(6 + (1.845 * (2/3)))
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.36)
             keyboardInput.press('a')
-            time.sleep(1.845 - (1.845/2))
+            time.sleep(1.845 * (2/3))
             keyboardInput.release('a')
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.465)
             keyboardInput.press('d')
-            time.sleep(1.845 - (1.845/2))
+            time.sleep(1.845 * (2/3))
             keyboardInput.release('d')
             kills += 2
         print(f'Total kills: {kills}')
@@ -221,7 +220,7 @@ elif area == '4':
     
     print('You will be given 10 seconds to tab into roblox and position your roblox character as seen on github.')
     time.sleep(3)
-    print('To stop the macro press hold Q')
+    print('To stop the macro hold Q')
     time.sleep(3)
     _ = input('Press Enter to begin macro!\n')
     
@@ -253,20 +252,20 @@ elif area == '4':
         print(f'Total kills: {kills}')
     else:
         while not keyboardOutput.is_pressed('q'):
-            time.sleep(6)
+            time.sleep(6 + (1.75 * (2/3)))
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.36)
             keyboardInput.press('a')
-            time.sleep(1.75 - (1.75/2))
+            time.sleep(1.75 * (2/3))
             keyboardInput.release('a')
             mouseInput.press(Button.left)
             time.sleep(0.1)
             mouseInput.release(Button.left)
             time.sleep(0.465)
             keyboardInput.press('d')
-            time.sleep(1.75 - (1.75/2))
+            time.sleep(1.75 * (2/3))
             keyboardInput.release('d')
             kills += 2
         print(f'Total kills: {kills}')
