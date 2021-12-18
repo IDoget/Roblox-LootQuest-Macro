@@ -1,4 +1,4 @@
-# Roblox-LootQuest-Macro
+# Roblox-Lootquest-Macro
 This is a group of 4 macro's all in 4 executable file. The macro's are perfect 'No tp, No time wasted'. Made by me and dogwarrior24
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Works on windows 7-11
